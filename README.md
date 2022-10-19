@@ -1,4 +1,4 @@
-# Programas Hoja de Trabajo" 
+# Programas Hoja de Trabajo
 
 ### Para mover el punto, del programa del inciso numero 22 se debe manejar con las siguientes teclas:
 
